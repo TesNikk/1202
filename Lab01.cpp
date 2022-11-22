@@ -17,3 +17,4 @@ int main(){
     cout<<"Location is = "<<k<<endl;
     return 0;
 }
+//lemme edit
